@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(146, 211, 26, 0.789);
+    background-color: #ffff;
 }
 
 label {
@@ -22,4 +22,3 @@ label {
     letter-spacing: 5px;
 }
 
-input {}

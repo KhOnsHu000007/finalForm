@@ -2,8 +2,8 @@
   text-align: center;
   margin: 40px;
   padding: 20px;
-  border: black 2px solid;
-  border-radius: 20px;
+ 
+  
 }
 
 .App-logo {
@@ -18,7 +18,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
